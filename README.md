@@ -24,7 +24,7 @@ Join me on Linkedin:
 
   
 
-### Best frameworks and main libraries for Python3:
+### Best frameworks and main libraries for Python:
 
 | Selenium | Numpy | Pandas | Sklearn | Matplotlib |
 |----------|----------|----------|----------|----------|
